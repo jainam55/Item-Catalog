@@ -1,5 +1,5 @@
 # Item-Catalog
-Item Catalog Application project is a part of Udacity full-stack web development nano-degree.
+Item Catalog Application project that performs various operations and is a full-stack web application.
 
 # About
 The Item Catalog application is an RESTful web application developed using the Python framework Flask along with implementing third-party OAuth authentication.
